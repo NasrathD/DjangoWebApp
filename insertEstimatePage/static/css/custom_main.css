@@ -1,0 +1,24 @@
+.firstheader{
+     font-family: 'GrundschriftRegular';
+     font-weight: normal;
+     font-style: normal;
+     color: white;
+     text-align: center;
+
+     font-size: 40px;
+
+}
+.secondheader{
+
+  font-family: 'GrundschriftRegular';
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  text-align: center;
+
+  font-size: 30px;
+}
+.custom_formselect{
+
+  width: 80px;
+}
